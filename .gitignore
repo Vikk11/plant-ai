@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (if large, can add later)
+*.h5
+*.tflite
+
+# macOS junk files
+.DS_Store
